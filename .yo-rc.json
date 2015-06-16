@@ -1,0 +1,17 @@
+{
+  "generator-plugin-wp": {
+    "name": "WDS Widget Visibility",
+    "homepage": "http://webdevstudios.com",
+    "description": "Allows an admin to specify which pages to display a widget on.",
+    "version": "0.1.0",
+    "author": "WebDevStudios",
+    "authoremail": "contact@webdevstudios.com",
+    "authorurl": "http://webdevstudios.com",
+    "license": "GPLv2",
+    "slug": "wds-widget-visibility",
+    "classname": "WDS_Widget_Visibility",
+    "classprefix": "WDSWV_",
+    "prefix": "wds_widget_visibility",
+    "year": 2015
+  }
+}

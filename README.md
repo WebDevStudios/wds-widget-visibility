@@ -1,11 +1,11 @@
 # WDS Widget Visibility #
-**Contributors:**      WebDevStudios
-**Donate link:**       http://webdevstudios.com
-**Tags:**
-**Requires at least:** 3.6.0
-**Tested up to:**      3.6.0
-**Stable tag:**        1.0.0
-**License:**           GPLv2
+**Contributors:**      WebDevStudios  
+**Donate link:**       http://webdevstudios.com  
+**Tags:**  
+**Requires at least:** 3.6.0  
+**Tested up to:**      3.6.0  
+**Stable tag:**        1.0.0  
+**License:**           GPLv2  
 
 ## Description ##
 
